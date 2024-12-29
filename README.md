@@ -112,20 +112,5 @@ Possible extensions and improvements to this code include:
 
 [Specify the license under which this code is released. For example, MIT License, Apache 2.0 License, etc.]
 
-## Citation
-
-If you use this code in your research, please cite the original paper:
-
-```bibtex
-@article{your_paper_citation,
-  title={Your Paper Title Here: Dynamic Pricing of Traffic Data: A Multi-Objective Optimization Approach},
-  author={Author 1, Author 2, and Author 3},
-  journal={Name of the Journal or Conference},
-  year={Year of Publication},
-  volume={Volume Number},
-  number={Issue Number},
-  pages={Start Page--End Page},
-  doi={Your DOI Link Here}
-}
 
 ```
