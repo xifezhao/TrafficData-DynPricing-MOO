@@ -55,44 +55,6 @@ You can install these libraries using pip:
 pip install pandas numpy scikit-learn deap matplotlib seaborn
 ```
 
-### Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone [repository URL]
-   cd [repository directory]
-   ```
-
-2. (Optional) Create a virtual environment to manage dependencies:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Linux/macOS
-   venv\Scripts\activate  # On Windows
-   ```
-
-3. Install the required libraries (if you haven't already):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *(Note: You might need to create a `requirements.txt` file with the library names listed in the Prerequisites section.)*
-
-### Running the Experiment
-
-To run the dynamic pricing experiment and generate the visualizations, execute the following Python script:
-
-```bash
-python dynamic_pricing.py
-```
-
-This script will:
-
-1. **Run the dynamic pricing experiment:** This involves generating synthetic data, valuing the data, predicting demand, performing multi-objective optimization, and calculating dynamic prices.
-2. **Print the head of the resulting DataFrame:** This will show the timestamp, speed, volume, and calculated dynamic price for the first few data points.
-3. **Generate a PDF visualization:** A file named `dynamic_pricing.pdf` will be created, containing plots of dynamic price, normalized speed, and normalized volume over time for each day in the dataset.
-
 ## Code Explanation
 
 The main parts of the code are as follows:
