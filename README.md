@@ -182,11 +182,9 @@ Here's a breakdown of the thought process to create the GitHub README.md file fo
     * *Emphasis:*  Make sure the connection to the research paper is explicitly stated and explained.
 
 By following this process, the goal is to create a comprehensive and user-friendly README.md file that effectively communicates the purpose, functionality, and usage of the provided Python code.```markdown
-# Code for: [Your Paper Title Here: e.g., Dynamic Pricing of Traffic Data: A Multi-Objective Optimization Approach]
 
-This repository contains the Python code implementing the dynamic pricing framework for taxi data as described in the paper **"[Your Paper Title Here]"** (Replace with the actual paper title and add a link to the paper if it's publicly available).
 
-## Overview
+## Experimental 2 Real-World Taxi Trip Data Experiment Overview
 
 This code implements a dynamic pricing strategy for taxi data, leveraging multi-objective optimization to balance various objectives such as revenue maximization, user cost minimization, data quality, and market fairness. The framework consists of several key components:
 
