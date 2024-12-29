@@ -3,7 +3,7 @@
 
 This repository contains the Python code implementing the dynamic pricing framework for traffic data as described in the paper **"[Your Paper Title Here: Dynamic Pricing of Traffic Data: A Multi-Objective Optimization Approach]"** (Replace with the actual paper title and add a link if available).
 
-## Overview
+## Experimental 1 Synthetic Experiment Overview
 
 This code provides a practical implementation of a dynamic pricing strategy for traffic data. It incorporates several key components:
 
