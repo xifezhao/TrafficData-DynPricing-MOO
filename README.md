@@ -87,7 +87,7 @@ After running the `dynamic_pricing.py` script, you will find:
 
 You can modify the parameters within the script (e.g., the number of generations in the optimization, the parameters of the valuation model) to experiment with different settings and observe their impact on the dynamic pricing outcomes.
 
-![这是图片的替代文字](dynamic_pricing.png)
+![Containing the visualizations of the dynamic pricing results.png](dynamic_pricing.png)
 
 ## Dependencies
 
